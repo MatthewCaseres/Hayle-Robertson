@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hayle-Robertson
-- 👀 I’m interested in art and education.
-- 🌱 I’m currently learning coding. I'll always be learning and growing. 
+- 👀 I’m interested in a Software Developer Position.
+- 🌱 I’m currently Working for Accebture Federal Services. 
 - 💞️ I’m looking to collaborate on projects of anykind with any team. 
 - 📫 You can reach me at haylerobertson@gmail.com. 
 
